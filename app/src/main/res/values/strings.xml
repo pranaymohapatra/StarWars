@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="player_list">Player List</string>
+    <string name="matches_list">Matches</string>
+</resources>
